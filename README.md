@@ -1,6 +1,7 @@
 # torrmleaf
 Clean Leaf files from torrented directories.  
-When downloading torrents over already populated directories we are prone end with leftover files that ccan grow to quite a bunch over the time (Damn Mame and Touhou torrents!).  
+
+When downloading torrents over already populated directories we are prone to end with leftover files that can grow to quite a bunch over the time (Damn Mame and Touhou torrents!).  
 This utility will list the files from a directory that aren't on a torrent file and prompt you to move them out.  
 * Usage:  
 Specifying the torrent file and his already downloaded directory:  
